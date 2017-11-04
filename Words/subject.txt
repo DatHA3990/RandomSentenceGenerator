@@ -1,0 +1,8 @@
+man
+clown
+king
+bus driver
+delivery man
+astronaut
+boy
+girl
